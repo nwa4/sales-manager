@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Projects\\DotNet\\SalesManager\\SalesManager.Web\\SalesManager.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SalesManager.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SalesManager.Web.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Projects\\DotNet\\SalesManager\\SalesManager.Web\\SalesManager.Web\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Projects\\DotNet\\SalesManager\\SalesManager.Web\\SalesManager.Web\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Projects\\DotNet\\SalesManager\\SalesManager.Web\\SalesManager.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Projects\\DotNet\\SalesManager\\SalesManager.Web\\SalesManager.Web\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SalesManager.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SalesManager.Web.props",
+      "PackagePath": "build\\SalesManager.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SalesManager.Web.props",
+      "PackagePath": "buildMultiTargeting\\SalesManager.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SalesManager.Web.props",
+      "PackagePath": "buildTransitive\\SalesManager.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

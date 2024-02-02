@@ -1,0 +1,45 @@
+﻿@page "/"
+@using SalesManager.Core.Interfaces
+@using SalesManager.Core.Models
+
+@inject IOrderService orderService
+
+<PageTitle>Sales Manager - Order</PageTitle>
+
+<h1>Orders</h1>
+
+@if (orders == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>State</th>
+				<th>Windows</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var order in orders)
+            {
+                <tr>
+                    <td>@order.Name</td>
+                    <td>@order.State</td>
+                    <td>@string.Join(",", order.Windows.Select(x => x.Name))</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    OrderDTO[]? orders;
+
+    protected override async Task OnInitializedAsync()
+    {
+        orders = (await orderService.GetOrdersAsync(1, 100)).ToArray();
+    }
+}

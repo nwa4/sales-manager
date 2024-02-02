@@ -1,0 +1,11 @@
+C:\Projects\DotNet\SalesManager\SalesManager.Core\bin\Debug\net8.0\SalesManager.Core.deps.json
+C:\Projects\DotNet\SalesManager\SalesManager.Core\bin\Debug\net8.0\SalesManager.Core.dll
+C:\Projects\DotNet\SalesManager\SalesManager.Core\bin\Debug\net8.0\SalesManager.Core.pdb
+C:\Projects\DotNet\SalesManager\SalesManager.Core\obj\Debug\net8.0\SalesManager.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\DotNet\SalesManager\SalesManager.Core\obj\Debug\net8.0\SalesManager.Core.AssemblyInfoInputs.cache
+C:\Projects\DotNet\SalesManager\SalesManager.Core\obj\Debug\net8.0\SalesManager.Core.AssemblyInfo.cs
+C:\Projects\DotNet\SalesManager\SalesManager.Core\obj\Debug\net8.0\SalesManager.Core.csproj.CoreCompileInputs.cache
+C:\Projects\DotNet\SalesManager\SalesManager.Core\obj\Debug\net8.0\SalesManager.Core.dll
+C:\Projects\DotNet\SalesManager\SalesManager.Core\obj\Debug\net8.0\refint\SalesManager.Core.dll
+C:\Projects\DotNet\SalesManager\SalesManager.Core\obj\Debug\net8.0\SalesManager.Core.pdb
+C:\Projects\DotNet\SalesManager\SalesManager.Core\obj\Debug\net8.0\ref\SalesManager.Core.dll

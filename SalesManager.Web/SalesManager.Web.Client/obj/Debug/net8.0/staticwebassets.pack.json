@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Projects\\DotNet\\SalesManager\\SalesManager.Web\\SalesManager.Web.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Projects\\DotNet\\SalesManager\\SalesManager.Web\\SalesManager.Web.Client\\obj\\Debug\\net8.0\\compressed\\13rbvfwf7i.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Projects\\DotNet\\SalesManager\\SalesManager.Web\\SalesManager.Web.Client\\wwwroot\\appsettings.Development.json",
+      "PackagePath": "staticwebassets\\appsettings.Development.json"
+    },
+    {
+      "Id": "C:\\Projects\\DotNet\\SalesManager\\SalesManager.Web\\SalesManager.Web.Client\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SalesManager.Web.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SalesManager.Web.Client.props",
+      "PackagePath": "build\\SalesManager.Web.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SalesManager.Web.Client.props",
+      "PackagePath": "buildMultiTargeting\\SalesManager.Web.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SalesManager.Web.Client.props",
+      "PackagePath": "buildTransitive\\SalesManager.Web.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

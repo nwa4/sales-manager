@@ -1,0 +1,17 @@
+C:\Projects\DotNet\SalesManager\SalesManager.Data\bin\Debug\net8.0\SalesManager.Data.deps.json
+C:\Projects\DotNet\SalesManager\SalesManager.Data\bin\Debug\net8.0\SalesManager.Data.runtimeconfig.json
+C:\Projects\DotNet\SalesManager\SalesManager.Data\bin\Debug\net8.0\SalesManager.Data.dll
+C:\Projects\DotNet\SalesManager\SalesManager.Data\bin\Debug\net8.0\SalesManager.Data.pdb
+C:\Projects\DotNet\SalesManager\SalesManager.Data\bin\Debug\net8.0\SalesManager.Core.dll
+C:\Projects\DotNet\SalesManager\SalesManager.Data\bin\Debug\net8.0\SalesManager.Core.pdb
+C:\Projects\DotNet\SalesManager\SalesManager.Data\obj\Debug\net8.0\SalesManager.Data.csproj.AssemblyReference.cache
+C:\Projects\DotNet\SalesManager\SalesManager.Data\obj\Debug\net8.0\SalesManager.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\DotNet\SalesManager\SalesManager.Data\obj\Debug\net8.0\SalesManager.Data.AssemblyInfoInputs.cache
+C:\Projects\DotNet\SalesManager\SalesManager.Data\obj\Debug\net8.0\SalesManager.Data.AssemblyInfo.cs
+C:\Projects\DotNet\SalesManager\SalesManager.Data\obj\Debug\net8.0\SalesManager.Data.csproj.CoreCompileInputs.cache
+C:\Projects\DotNet\SalesManager\SalesManager.Data\obj\Debug\net8.0\SalesManager.Data.csproj.CopyComplete
+C:\Projects\DotNet\SalesManager\SalesManager.Data\obj\Debug\net8.0\SalesManager.Data.dll
+C:\Projects\DotNet\SalesManager\SalesManager.Data\obj\Debug\net8.0\refint\SalesManager.Data.dll
+C:\Projects\DotNet\SalesManager\SalesManager.Data\obj\Debug\net8.0\SalesManager.Data.pdb
+C:\Projects\DotNet\SalesManager\SalesManager.Data\obj\Debug\net8.0\SalesManager.Data.genruntimeconfig.cache
+C:\Projects\DotNet\SalesManager\SalesManager.Data\obj\Debug\net8.0\ref\SalesManager.Data.dll
